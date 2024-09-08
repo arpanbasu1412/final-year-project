@@ -75,7 +75,7 @@ The Temporary Contract Address:"0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0"
  Declare it in "\Final-Year-Project\Frontend\src\App.js"
  ```
  
-![Contract Address](https://github.com/decodeme1412/Final-Year-Project/blob/main/Documentations/Contract_address.PNG)
+![Contract Address](https://github.com/arpanbasu1412/final-year-project/blob/main/Documentations/Contract_address.PNG)
 
  Run Frontend React-Server
  
