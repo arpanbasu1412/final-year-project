@@ -106,3 +106,4 @@ For production release:
 ```sh
 npm run build
 ```
+Deployed Project Link : https://stcet-group19-project.netlify.app
