@@ -8,6 +8,7 @@
 ##### Anubhav Routh (211220100120001)
 
 #
+Deployed Project Link : https://stcet-group19-project.netlify.app
 
 NFT Marketplace is an online platform leveraging blockchain to buy, sell, and trade unique digital assets as NFTs.
 
@@ -106,4 +107,3 @@ For production release:
 ```sh
 npm run build
 ```
-Deployed Project Link : https://stcet-group19-project.netlify.app
